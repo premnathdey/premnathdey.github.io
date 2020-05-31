@@ -11,6 +11,8 @@ import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
 
+<script data-ad-client="ca-pub-7141455775568315" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 class HomeIndex extends React.Component {
     render() {
 
@@ -56,8 +58,8 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Prijects</h3>
+                                <p>Navigate to project section</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
